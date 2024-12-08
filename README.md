@@ -1,6 +1,7 @@
 Hello 👋
 
 I'm Surya Nallaparaju. I am currently a Masters Student at NITW in Computer Science and Information Security.
+
 Interested to explore and build.
 
 <!--
